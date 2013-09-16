@@ -28,6 +28,10 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 6. 用微信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
 7. 支持wp后台自动更新插件。
 
+仅售：￥99 RMB 或者 $18.5 USD 购买地址: http://www.smyx.net/wechat.html
+
+[WordPress连接微博专业版](http://www.smyx.net/wp-connect.html) 用户购买本插件享受4.5折优惠，输入上次购买的域名后即可看到优惠。
+
 **Current Features:**
 
 1. Use WeChat to search Wordoress Posts
@@ -38,10 +42,8 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 6. User could use WeChat to publish Weibo ( need [WP Connect](http://www.smyx.net/wp-connect.html) plugin )
 7. support automaticly update from Wordpress backend.
 
-**仅售：￥99 RMB 或者 $18.5 USD 购买地址: http://www.smyx.net/wechat.html **
-**only：￥99 RMB or $18.5 USD Buy Now: http://www.smyx.net/wechat.html **
+only：￥99 RMB or $18.5 USD Buy Now: http://www.smyx.net/wechat.html
 
-[WordPress连接微博专业版](http://www.smyx.net/wp-connect.html) 用户购买本插件享受4.5折优惠，输入上次购买的域名后即可看到优惠。
 [WP Connect Pro](http://www.smyx.net/wp-connect.html) Version User could gain 4.5 Discount，enter your registered domain to get discount details.
 
 = “微信公众平台”开通指南 =
