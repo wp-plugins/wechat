@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: smyx
 Donate link: http://www.smyx.net/wechat.html
-Tags: post,wechat,weixin,widget,微信
+Tags: post,wechat,weixin,yixin,widget,微信,易信
 Requires at least: 2.8
 Tested up to: 3.6.1
 Stable tag: 0.2
 
-使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号或者易信支持自定义菜单等。
+使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单等。
 
 == Description ==
 
