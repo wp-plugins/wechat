@@ -12,7 +12,7 @@ Stable tag: 0.2
 
 This plugin can achieve search Wordpress post, custom keywords, message records and data analyze, WeChat custom menu. 
 
-使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号或者易信支持自定义菜单等。
+使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单等。
 
 [微信公众平台](http://mp.weixin.qq.com/) 、 [易信公众平台](https://plus.yixin.im/)
 
