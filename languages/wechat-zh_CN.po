@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wechat\n"
 "POT-Creation-Date: 2013-09-16 11:40+0800\n"
-"PO-Revision-Date: 2013-09-16 11:40+0800\n"
+"PO-Revision-Date: 2013-09-28 13:43+0800\n"
 "Last-Translator: smyx <smyx@qq.com>\n"
 "Language-Team: smyx <smyx@qq.com>\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: wechat.php:45 wechat.php:65
 msgid "WeChat"
-msgstr "连接微信"
+msgstr "连接微信/易信"
 
 #: wechat.php:51
 msgid "Settings"
@@ -68,7 +68,7 @@ msgstr "先看看目前插件的功能："
 
 #: wechat.php:68
 msgid "1. Use WeChat to search Wordoress Posts"
-msgstr "1、使用微信搜索Wordpress文章"
+msgstr "1、使用微信/易信搜索Wordpress文章"
 
 #: wechat.php:69
 msgid ""
@@ -86,15 +86,15 @@ msgstr "4、数据分析 （包括消息记录统计、热门关键字、活跃�
 
 #: wechat.php:72
 msgid "5. WeChat custom menu ( WeChat Service account should apply)"
-msgstr "5、微信自定义菜单（微信服务号可申请）"
+msgstr "5、自定义菜单（微信服务号可申请，易信任何人都可以申请。）"
 
 #: wechat.php:73
 msgid ""
 "6. User could use WeChat to publish Weibo ( need <a href=\"http://www.smyx."
 "net/wp-connect.html\" target=\"_blank\">WP Connect</a> plugin )"
 msgstr ""
-"6、用微信发布微博（需要安装<a href=\"http://www.smyx.net/wp-connect.html\" "
-"target=\"_blank\">WordPress连接微博</a>）"
+"6、用微信/易信发布微博（需要安装<a href=\"http://www.smyx.net/wp-connect.html"
+"\" target=\"_blank\">WordPress连接微博</a>）"
 
 #: wechat.php:74
 msgid "7. support automaticly update from Wordpress backend."

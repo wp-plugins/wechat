@@ -4,15 +4,17 @@ Donate link: http://www.smyx.net/wechat.html
 Tags: post,wechat,weixin,widget,微信
 Requires at least: 2.8
 Tested up to: 3.6.1
-Stable tag: 0.1
+Stable tag: 0.2
 
-使用微信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号支持自定义菜单等。
+使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号或者易信支持自定义菜单等。
 
 == Description ==
 
 This plugin can achieve search Wordpress post, custom keywords, message records and data analyze, WeChat custom menu. 
 
-使用微信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号支持自定义菜单等。
+使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号或者易信支持自定义菜单等。
+
+[微信公众平台](http://mp.weixin.qq.com/) 、 [易信公众平台](https://plus.yixin.im/)
 
 = 插件介绍 =
 
@@ -20,12 +22,12 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 
 **目前插件的功能：**
 
-1. 使用微信(weixin)搜索Wordpress文章
+1. 使用微信(weixin)/易信(yixin)搜索Wordpress文章
 2. 后台关键字自定义回复（包括文本、图文、自定义图文、音乐等）
 3. 消息记录 （用户与公众平台的互动记录）
 4. 数据分析 （包括消息记录统计、热门关键字、活跃用户等）
-5. 微信自定义菜单（微信服务号可申请）
-6. 用微信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
+5. 自定义菜单（微信服务号可申请，易信任何人都可以申请。）
+6. 用微信/易信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
 7. 支持wp后台自动更新插件。
 
 仅售：￥99 RMB 或者 $18.5 USD 购买地址: http://www.smyx.net/wechat.html
@@ -83,7 +85,8 @@ only：￥99 RMB or $18.5 USD Buy Now: http://www.smyx.net/wechat.html
 5. 插件后台 - 消息记录
 6. 插件后台 - 数据分析
 7. 插件后台 - 自定义菜单
-8. 插件后台 - 微信演示
+8. 微信界面
+9. 易信界面
 
 == Changelog ==
 
