@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wechat\n"
 "POT-Creation-Date: 2013-09-16 11:40+0800\n"
-"PO-Revision-Date: 2013-09-28 13:43+0800\n"
+"PO-Revision-Date: 2013-10-23 15:39+0800\n"
 "Last-Translator: smyx <smyx@qq.com>\n"
 "Language-Team: smyx <smyx@qq.com>\n"
 "MIME-Version: 1.0\n"
@@ -102,10 +102,10 @@ msgstr "7、支持wp后台自动更新插件。"
 
 #: wechat.php:75
 msgid ""
-"only：￥99 RMB or $18.5 USD Buy Now: <a href=\"http://www.smyx.net/wechat."
-"html\" target=\"_blank\">http://www.smyx.net/wechat.html</a>"
+"only：￥119 RMB or $23 USD Buy Now: <a href=\"http://www.smyx.net/wechat.html"
+"\" target=\"_blank\">http://www.smyx.net/wechat.html</a>"
 msgstr ""
-"仅售：￥99 RMB 或者 $18.5 USD 购买地址：<a href=\"http://www.smyx.net/wechat."
+"仅售：￥119 RMB 或者 $23 USD 购买地址：<a href=\"http://www.smyx.net/wechat."
 "html\" target=\"_blank\">http://www.smyx.net/wechat.html</a>"
 
 #: wechat.php:76

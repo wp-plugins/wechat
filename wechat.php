@@ -72,7 +72,7 @@ function wp_wechat_do_page() {
   <p><?php _e('5. WeChat custom menu ( WeChat Service account should apply)', 'wechat');?></p>
   <p><?php _e('6. User could use WeChat to publish Weibo ( need <a href="http://www.smyx.net/wp-connect.html" target="_blank">WP Connect</a> plugin )', 'wechat');?></p>
   <p><?php _e('7. support automaticly update from Wordpress backend.', 'wechat');?></p>
-  <h3><?php _e('only：￥99 RMB or $18.5 USD Buy Now: <a href="http://www.smyx.net/wechat.html" target="_blank">http://www.smyx.net/wechat.html</a>', 'wechat');?></h3>
+  <h3><?php _e('only：￥119 RMB or $23 USD Buy Now: <a href="http://www.smyx.net/wechat.html" target="_blank">http://www.smyx.net/wechat.html</a>', 'wechat');?></h3>
   <p><?php _e('<a href="http://www.smyx.net/wp-connect.html" target="_blank">WP Connect Pro</a> Version User could gain 4.5 Discount，enter your registered domain to get discount details.', 'wechat');?></p>
   <h3><?php _e('"WeChat Public Account" Account Opening Instruction', 'wechat');?></h3>
   <p><?php _e('1、Open <a href="http://mp.weixin.qq.com/" target="_blank">WeChat Public Account</a>, click on "Register".<br />2、Login to your QQ account, provide all your details, please give a nice name for "Account Name" (Notes: This account name cannot be changed after this setting). <br />3、Select"Regular WeChat Public Account"<br />4、After registration, you could view your account number and QR code under "Settings". It is a good way to download this QR image and put on your website.<br />5、Click "Advance Function", Disable "Editor Model" and go to "Developer Model", enable it, then click on "Become Developer", please fill correct URL and Token.', 'wechat');?>
