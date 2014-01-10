@@ -57,7 +57,7 @@ function wp_wechat_do_page() {
 	$installed_zend = installed_zend();
 	if (is_array($installed_zend)) {
 		echo '<div class="updated">';
-		echo '<p><strong>' . $installed_zend . '</strong></p>';
+		echo '<p><strong>' . $installed_zend['error'] . '</strong></p>';
 		echo '</div>';
 	}
 ?>
