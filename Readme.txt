@@ -66,10 +66,6 @@ only：￥149 RMB or $28 USD Buy Now: http://www.smyx.net/wechat.html
 4. After registration, you could view your account number and QR code under "Settings". It is a good way to download this QR image and put on your website.
 5. Click "Advance Function", Disable "Editor Model" and go to "Developer Model", enable it, then click on "Become Developer", please fill correct URL and Token. 
 
-= 注意事项 =
-
-本插件需要安装zend组件，目前仅支持安装了PHP5.2.x和PHP5.3.x系列的服务器环境，购买前，请下载测试文件 http://pan.baidu.com/share/link?uk=503347288&shareid=458918 下载后上传到网站根目录，通过 http://您的网站网址/test.php 打开，检查您的服务器是否支持！
-
 == Installation ==
 
 1. Upload the `wechat` folder to the `/wp-content/plugins/` directory.
