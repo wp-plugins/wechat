@@ -3,16 +3,16 @@ Contributors: smyx
 Donate link: http://www.smyx.net/wechat.html
 Tags: post,wechat,weixin,yixin,widget,微信,易信,baidu,map,youdao
 Requires at least: 2.8
-Tested up to: 3.7.1
+Tested up to: 3.9.1
 Stable tag: 0.3
 
 使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单等。
 
 == Description ==
 
-This plugin can achieve search Wordpress post, custom keywords, message records and data analyze, WeChat custom menu. 
+This plugin can achieve search Wordpress post, custom keywords, message records and data analyze, custom menu. 
 
-使用微信/易信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号或者易信支持自定义菜单。微信周边搜索和有道中英文互译等。
+使用微信/易信/微博私信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单，获取周边信息和有道翻译等。
 
 [微信公众平台](http://mp.weixin.qq.com/) 、 [易信公众平台](https://plus.yixin.im/)
 
@@ -22,23 +22,23 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 
 **目前插件的功能：**
 
-1. 使用微信(weixin)/易信(yixin)搜索Wordpress文章
+1. 使用微信/易信/新浪微博私信搜索Wordpress文章
 2. 后台关键字自定义回复（包括文本、图文、自定义图文、音乐等）
 3. [基于百度地图API的微信周边搜索](http://www.smyx.net/weixin-baidu-map.html) NEW!
 4. 有道中英文互译功能。NEW!
 5. 消息记录 （用户与公众平台的互动记录）
 6. 数据分析 （包括消息记录统计、热门关键字、活跃用户等）
-7. 自定义菜单（微信服务号可申请，易信任何人都可以申请。）
+7. 自定义菜单（微信服务号可申请，易信任何人都可以申请，微博粉丝服务平台本身就有。）
 8. 用微信/易信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
 9. 支持wp后台自动更新插件。
 
 仅售：￥149 RMB 或者 $28 USD 购买地址: http://www.smyx.net/wechat.html
 
-[WordPress连接微博专业版](http://www.smyx.net/wp-connect.html) 用户购买本插件享受7.8折优惠，输入上次购买的域名后即可看到优惠。
+[WordPress连接微博专业版](http://www.smyx.net/wp-connect.html) 用户购买本插件享受8折优惠，输入上次购买的域名后即可看到优惠。
 
 **Current Features:**
 
-1. Use WeChat to search Wordoress Posts
+1. Use WeChat/Yixin/Weibo to search Wordoress Posts
 2. custom keywords to reply (include text, image + text, custom image + text, music and etc...)
 3. message records (transcripts betweens clients and public account)
 4. Data Analizy ( included message record，keywords，user activities)
@@ -48,7 +48,7 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 
 only：￥149 RMB or $28 USD Buy Now: http://www.smyx.net/wechat.html
 
-[WP Connect Pro](http://www.smyx.net/wp-connect.html) Version User could gain 7.8 Discount，enter your registered domain to get discount details.
+[WP Connect Pro](http://www.smyx.net/wp-connect.html) Version User could gain 8 Discount，enter your registered domain to get discount details.
 
 = “微信公众平台”开通指南 =
 

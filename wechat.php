@@ -4,7 +4,7 @@ Plugin Name: WeChat (连接微信)
 Author: smyx
 Author URI: http://www.smyx.net/
 Plugin URI: http://www.smyx.net/wechat.html
-Description: This plugin can achieve search Wordpress post, custom keywords, message records and data analyze. (使用微信/易信/新浪微博私信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，微信服务号或者易信支持自定义菜单。周边相关搜索和有道中英文互译等。)
+Description: This plugin can achieve search Wordpress post, custom keywords, message records and data analyze. (使用微信/易信/微博私信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单，获取周边信息和有道翻译等。)
 Version: 0.4
 */
 
