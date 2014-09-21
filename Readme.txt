@@ -3,8 +3,8 @@ Contributors: smyx
 Donate link: http://www.smyx.net/wechat.html
 Tags: post,wechat,weixin,yixin,widget,微信,易信,baidu,map,youdao,微博粉丝服务,sina
 Requires at least: 2.8
-Tested up to: 3.9.1
-Stable tag: 0.4
+Tested up to: 4.0
+Stable tag: 0.5
 
 微信/易信/微博私信搜索搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单等。
 
@@ -14,9 +14,11 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 
 使用微信/易信/微博私信搜索Wordpress文章，关键字自定义回复，消息记录和数据分析，创建自定义菜单，获取周边信息和有道翻译等。
 
-[微信公众平台](http://mp.weixin.qq.com/) 、 [易信公众平台](https://plus.yixin.im/)
+
 
 = 插件介绍 =
+
+详细文档(doc)： http://www.smyx.net/doc/wechat.html
 
 演示地址(demo)： http://www.smyx.net/demo/wechat.html
 
@@ -24,13 +26,14 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 
 1. 使用微信/易信/新浪微博私信搜索Wordpress文章
 2. 后台关键字自定义回复（包括文本、图文、自定义图文、音乐等）
-3. [基于百度地图API的微信周边搜索](http://www.smyx.net/weixin-baidu-map.html) NEW!
-4. 有道中英文互译功能。NEW!
+3. 自定义菜单（微信服务号可申请，易信任何人都可以申请，微博粉丝服务平台本身就有。）
+4. [支持对接第三方微信平台](http://www.smyx.net/wechat-third-party-platform.html) NEW!
 5. 消息记录 （用户与公众平台的互动记录）
 6. 数据分析 （包括消息记录统计、热门关键字、活跃用户等）
-7. 自定义菜单（微信服务号可申请，易信任何人都可以申请，微博粉丝服务平台本身就有。）
-8. 用微信/易信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
-9. 支持wp后台自动更新插件。
+7. [基于百度地图API的微信周边搜索](http://www.smyx.net/weixin-baidu-map.html)
+8. 有道中英文互译功能。
+9. 用微信/易信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
+10. 支持wp后台自动更新插件。
 
 仅售：￥149 RMB 或者 $28 USD 购买地址: http://www.smyx.net/wechat.html
 

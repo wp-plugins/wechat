@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wechat\n"
-"POT-Creation-Date: 2014-06-09 12:52+0800\n"
-"PO-Revision-Date: 2014-06-09 12:53+0800\n"
+"POT-Creation-Date: 2014-09-21 22:34+0800\n"
+"PO-Revision-Date: 2014-09-21 22:35+0800\n"
 "Last-Translator: smyx <smyx@qq.com>\n"
 "Language-Team: smyx <smyx@qq.com>\n"
 "MIME-Version: 1.0\n"
@@ -62,10 +62,14 @@ msgid "Plugin Summary"
 msgstr "插件介绍："
 
 #: wechat.php:67
+msgid "Documentation:"
+msgstr "详细文档："
+
+#: wechat.php:68
 msgid "Current Features:"
 msgstr "先看看目前插件的功能："
 
-#: wechat.php:68
+#: wechat.php:69
 msgid ""
 "<p>1. Use WeChat/Yinxin/Sina weibo messages to search Wordoress Posts</"
 "p><p>2. custom keywords to reply (include text, image + text, custom image + "
@@ -78,16 +82,18 @@ msgid ""
 "backend.</p>"
 msgstr ""
 "<p>1、使用微信/易信/新浪微博私信搜索Wordpress文章</p><p>2、后台关键字自定义回"
-"复（包括文本、图文、自定义图文、音乐等）</p><p>3、<a title=\"基于百度地图API"
-"的微信周边搜索\" href=\"http://www.smyx.net/weixin-baidu-map.html\" target="
-"\"_blank\">基于百度地图API的微信周边搜索</a></p><p>4、有道中英文互译功能。</"
-"p><p>5、消息记录 （用户与公众平台的互动记录）</p><p>6、数据分析 （包括消息记"
-"录统计、热门关键字、活跃用户等）</p><p>7、自定义菜单（微信服务号可申请，易信"
-"任何人都可以申请。）</p><p>8、用微信/易信发布微博（需要安装<a href=\"http://"
+"复（包括文本、图文、自定义图文、音乐等）</p><p>3、自定义菜单（微信服务号可申"
+"请，易信任何人都可以申请。）</p><p>4、<a title=\"支持对接第三方微信平台\" "
+"href=\"http://www.smyx.net/wechat-third-party-platform.html\" target=\"_blank"
+"\">支持对接第三方微信平台</a></p><p>5、<a title=\"基于百度地图API的微信周边搜"
+"索\" href=\"http://www.smyx.net/weixin-baidu-map.html\" target=\"_blank\">基"
+"于百度地图API的微信周边搜索</a></p><p>6、有道中英文互译功能。</p><p>7、消息记"
+"录 （用户与公众平台的互动记录）</p><p>8、数据分析 （包括消息记录统计、热门关"
+"键字、活跃用户等）</p><p>9、用微信/易信发布微博（需要安装<a href=\"http://"
 "www.smyx.net/wp-connect.html\" target=\"_blank\">WordPress连接微博</a>）</"
-"p><p>9、支持wp后台自动更新插件。</p>"
+"p><p>10、支持wp后台自动更新插件。</p>"
 
-#: wechat.php:69
+#: wechat.php:70
 msgid ""
 "only：￥149 RMB or $28 USD Buy Now: <a href=\"http://www.smyx.net/wechat.html"
 "\" target=\"_blank\">http://www.smyx.net/wechat.html</a>"
@@ -95,7 +101,7 @@ msgstr ""
 "仅售：￥149 RMB 或者 $28 USD 购买地址：<a href=\"http://www.smyx.net/wechat."
 "html\" target=\"_blank\">http://www.smyx.net/wechat.html</a>"
 
-#: wechat.php:70
+#: wechat.php:71
 msgid ""
 "<a href=\"http://www.smyx.net/wp-connect.html\" target=\"_blank\">WP Connect "
 "Pro</a> Version User could gain 8 Discount，enter your registered domain to "
@@ -104,11 +110,11 @@ msgstr ""
 "<a href=\"http://www.smyx.net/wp-connect.html\" target=\"_blank\">WordPress连"
 "接微博专业版</a>用户购买本插件享受8折优惠，输入上次购买的域名后即可看到优惠。"
 
-#: wechat.php:71
+#: wechat.php:72
 msgid "\"WeChat Public Account\" Account Opening Instruction"
 msgstr "“微信公众平台”开通指南"
 
-#: wechat.php:72
+#: wechat.php:73
 msgid ""
 "1、Open <a href=\"http://mp.weixin.qq.com/\" target=\"_blank\">WeChat Public "
 "Account</a>, click on \"Register\".<br />2、Login to your QQ account, "
