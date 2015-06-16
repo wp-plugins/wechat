@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: smyx
-Donate link: http://www.smyx.net/wechat.html
+Donate link: http://blogqun.com/wechat.html
 Tags: post,wechat,weixin,yixin,widget,订阅号,服务号,微信,微信公众平台,易信,baidu,map,youdao,微博粉丝服务,sina
 Requires at least: 2.8
 Tested up to: 4.0
@@ -18,9 +18,9 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 
 = 插件介绍 =
 
-详细文档(doc)： http://www.smyx.net/doc/wechat.html
+详细文档(doc)： http://blogqun.com/doc/wechat.html
 
-演示地址(demo)： http://www.smyx.net/demo/wechat.html
+演示地址(demo)： http://blogqun.com/demo/wechat.html
 
 **目前插件的功能：**
 
@@ -32,12 +32,14 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 6. 数据分析 （包括消息记录统计、热门关键字、活跃用户等）
 7. [基于百度地图API的微信周边搜索](http://www.smyx.net/weixin-baidu-map.html)
 8. 有道中英文互译功能。
-9. 用微信/易信发布微博（需要安装[WordPress连接微博](http://www.smyx.net/wp-connect.html) ）
+9. 用微信/易信发布微博（需要安装[WordPress连接微博](http://blogqun.com/wp-connect.html) ）
 10. 支持wp后台自动更新插件。
 
-仅售：￥149 RMB 或者 $28 USD 购买地址: http://www.smyx.net/wechat.html
+仅售：￥149 RMB 或者 $28 USD 购买地址: http://blogqun.com/wechat.html
 
-[WordPress连接微博专业版](http://www.smyx.net/wp-connect.html) 用户购买本插件享受8折优惠，输入上次购买的域名后即可看到优惠。
+[微信群发助手](http://blogqun.com/weixin-helper.html)
+
+[WordPress连接微博专业版](http://blogqun.com/wp-connect.html) 用户购买本插件享受8折优惠，输入上次购买的域名后即可看到优惠。
 
 **Current Features:**
 
@@ -46,12 +48,12 @@ This plugin can achieve search Wordpress post, custom keywords, message records 
 3. message records (transcripts betweens clients and public account)
 4. Data Analizy ( included message record，keywords，user activities)
 5. WeChat custom menu ( WeChat Service account should apply)
-6. User could use WeChat to publish Weibo ( need [WP Connect](http://www.smyx.net/wp-connect.html) plugin )
+6. User could use WeChat to publish Weibo ( need [WP Connect](http://blogqun.com/wp-connect.html) plugin )
 7. support automaticly update from Wordpress backend.
 
-only：￥149 RMB or $28 USD Buy Now: http://www.smyx.net/wechat.html
+only：￥149 RMB or $28 USD Buy Now: http://blogqun.com/wechat.html
 
-[WP Connect Pro](http://www.smyx.net/wp-connect.html) Version User could gain 8 Discount，enter your registered domain to get discount details.
+[WP Connect Pro](http://blogqun.com/wp-connect.html) Version User could gain 8 Discount，enter your registered domain to get discount details.
 
 = “微信公众平台”开通指南 =
 
