@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: smyx
 Donate link: http://www.smyx.net/wechat.html
-Tags: post,wechat,weixin,yixin,widget,微信,易信,baidu,map,youdao,微博粉丝服务,sina
+Tags: post,wechat,weixin,yixin,widget,订阅号,服务号,微信,微信公众平台,易信,baidu,map,youdao,微博粉丝服务,sina
 Requires at least: 2.8
 Tested up to: 4.0
 Stable tag: 0.5
